@@ -1,16 +1,13 @@
-### Hi there 👋
+# Welcome! :wave:
 
-<!--
-**rglaubersantiago/rglaubersantiago** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm Glauber Santiago! 🦊
 
-Here are some ideas to get you started:
+- :house_with_garden: I’m from Brazil.
+- 📚 I am currently learning front-end development.
+- :outbox_tray: Objectives: create a project and find a new job.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <a href="https://github.com/rglaubersantiago"> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rglaubersantiago&show_icons=true&theme=slateorange&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rglaubersantiago&layout=compact&langs_count=7&theme=slateorange"/> 
+</div>
